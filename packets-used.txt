@@ -1,0 +1,14 @@
+express
+nodemon - server restarts automatically on change
+dotenv - to setup environment
+router
+morgan
+multer - to upload image/file
+express-validator - 
+uuidv1 - to generate random string
+nodemailer 
+jsonwebtoken - for authentication
+express-jwt - 
+cors - cross object resource sharing
+stripe - for payment integration using stripe
+countries-list - list of all country for shipping address
